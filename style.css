@@ -1,0 +1,39 @@
+*{
+    background: url(https://www.kolpaper.com/wp-content/uploads/2020/06/90s-Iphone-Background.jpg) 
+    
+}
+.container1{
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 50px solid #4575f3;
+    font-style: bold;
+    color: #6933b0;
+    font-size: 100px;
+    image-rendering: auto;
+    text-align: center;
+    text-shadow: 2px 2px 4px #000000;
+}
+.container2{
+    font-family: Arial, Helvetica, sans-serif;
+    border: 50px solid #d36f88;
+    font-style: bold;
+    color: #ff8203;
+    font-size: 100px;
+    image-rendering: auto;
+    text-align: center;
+    text-shadow: 2px 2px 4px #000000;
+}
+body{
+    margin: center;
+    padding: 200px;
+    display: inline-block;
+}
+img{
+    margin: 200px;
+    margin-top: 200px;
+    width: 1500px;
+    height: 1500px;
+    border: 80px floralwhite;
+    border-style: outset;
+    
+  }
